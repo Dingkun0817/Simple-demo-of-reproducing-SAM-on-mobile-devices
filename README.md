@@ -2,7 +2,7 @@
 Simple-demo-of-reproducing-SAM-on-mobile-devices
 
 # install vue
-npm init vue@latset
+``npm init vue@latset``
 # run the front end
 cd $project$
 npm run dev
